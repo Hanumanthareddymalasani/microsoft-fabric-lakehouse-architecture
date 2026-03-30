@@ -1,5 +1,8 @@
 # Microsoft Fabric Lakehouse Architecture
 
+## Architecture Diagram
+
+![Fabric Lakehouse Architecture](fabric-lakehouse-architecture.png)
 This project demonstrates a modern data platform implementation using Microsoft Fabric Lakehouse architecture to support scalable enterprise analytics and unified data access.
 
 The solution integrates Data Factory pipelines, OneLake storage, Spark-based transformations, and Power BI reporting within a unified analytics environment.
